@@ -1,0 +1,1 @@
+# ng_controller_scope
